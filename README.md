@@ -14,6 +14,7 @@ to be able to empower and support others when it comes to using and troubleshoot
 
 <h2>:computer: Help Desk Ticket Examples</h2>
 - <b>[Internet Access Troubleshooting](https://github.com/JulieMarieOwen/Computer-Startup-Troubleshooting)</b><br>
+
 - <b>Computer Startup Troubleshooting</b><br>
 - <b>Social Media Access Troubleshooting</b><br>
 - <b>Windows Login Troubleshooting</b><br>
