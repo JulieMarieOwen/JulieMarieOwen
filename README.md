@@ -22,7 +22,7 @@ to be able to empower and support others when it comes to using and troubleshoot
 - <b>Sound Device Troubleshooting</b><br>
 
 <h2>✨ AI Projects</h2>
-- <b>Interative CompTIA A+ Study Buddy</b>
+- <b>Interactive CompTIA A+ Study Buddy</b>
 
 <h2>:clipboard: Environments Used</h2>
 - <b>Windows 10 (21H2)</b><br>
