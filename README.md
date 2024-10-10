@@ -13,8 +13,8 @@ to be able to empower and support others when it comes to using and troubleshoot
 <b>CompTIA A+, June 2024</b>
 
 <h2>:computer: Help Desk Ticket Examples</h2>
-- <b>[Internet Access Troubleshooting](https://github.com/JulieMarieOwen/Internet-Access-Troubleshooting)</b><br>
 
+- <b>[Internet Access Troubleshooting](https://github.com/JulieMarieOwen/Internet-Access-Troubleshooting)</b>
 - <b>[Computer Startup Troubleshooting](https://github.com/JulieMarieOwen/Computer-Startup-Troubleshooting)</b><br>
 - <b>[Social Media Access Troubleshooting](https://github.com/JulieMarieOwen/Social-Media-Access-Troubleshooting)</b><br>
 - <b>[Windows Login Troubleshooting](https://github.com/JulieMarieOwen/Windows-Login-Troubleshooting)</b><br>
@@ -23,6 +23,7 @@ to be able to empower and support others when it comes to using and troubleshoot
 - <b>[Sound Device Troubleshooting](https://github.com/JulieMarieOwen/Sound-Device-Troubleshooting)</b><br>
 
 <h2>✨ AI Projects</h2>
+
 - <b>[Interactive CompTIA A+ Study Buddy](https://github.com/JulieMarieOwen/Interactive-Comptia-A-Study-Buddy)</b>
 
 <h2>:clipboard: Environments Used</h2>
